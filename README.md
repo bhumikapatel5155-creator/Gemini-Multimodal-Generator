@@ -147,19 +147,19 @@ Users can download supported generated outputs.
 ## 📸 8. Application Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshot/main-dashboard.png)
+![Main Dashboard](Screenshot/main-dashboard.png)
 
 ### Text Generation
-![Text Generation](screenshot/text-generation.png)
+![Text Generation](Screenshot/text-generation.png)
 
 ### Image Prompt Generation
-![Image Prompt Generation](screenshot/image-generation.png)
+![Image Prompt Generation](Screenshot/image-generation.png)
 
 ### Audio Generation
-![Audio Generation](screenshot/audio-generation.png)
+![Audio Generation](Screenshot/audio-generation.png)
 
 ### Multi-Modal Generation
-![Multi-Modal Generation](screenshot/multi-model.png)
+![Multi-Modal Generation](Screenshot/multi-model.png)
 
 ## 💻 9. Installation and Setup
 
